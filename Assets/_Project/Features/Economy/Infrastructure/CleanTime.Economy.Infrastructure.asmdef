@@ -1,0 +1,17 @@
+{
+    "name": "CleanTime.Economy.Infrastructure",
+    "rootNamespace": "CleanTime.Economy.Infrastructure",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Economy.Domain"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

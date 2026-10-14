@@ -1,0 +1,17 @@
+{
+    "name": "CleanTime.Gifts.Infrastructure",
+    "rootNamespace": "CleanTime.Gifts.Infrastructure",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Gifts.Domain"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

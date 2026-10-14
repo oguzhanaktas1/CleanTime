@@ -1,0 +1,22 @@
+{
+    "name": "CleanTime.Interaction.Presentation",
+    "rootNamespace": "CleanTime.Interaction.Presentation",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Shared.Unity",
+        "CleanTime.Interaction.Domain",
+        "CleanTime.Interaction.Application",
+        "CleanTime.GameInput.Application",
+        "CleanTime.Equipment.Application",
+        "CleanTime.Player.Domain"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

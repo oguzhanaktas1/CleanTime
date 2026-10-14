@@ -1,0 +1,22 @@
+{
+    "name": "CleanTime.UI.SaveSlots",
+    "rootNamespace": "CleanTime.UI.SaveSlots",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Shared.Unity",
+        "CleanTime.UI.Common",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI",
+        "CleanTime.Save.Domain",
+        "CleanTime.Save.Application"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,19 @@
+{
+    "name": "CleanTime.Jobs.Application",
+    "rootNamespace": "CleanTime.Jobs.Application",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Jobs.Domain",
+        "CleanTime.Cleaning.Domain",
+        "CleanTime.Locations.Domain"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

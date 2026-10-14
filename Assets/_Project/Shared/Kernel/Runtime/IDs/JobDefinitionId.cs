@@ -1,0 +1,32 @@
+using System;
+
+namespace CleanTime.Shared.Kernel
+{
+    /// <summary>Stable business identifier for: Job definition. Never a scene or instance id.</summary>
+    public readonly struct JobDefinitionId : IEquatable<JobDefinitionId>
+    {
+        public string Value { get; }
+
+        public JobDefinitionId(string value)
+        {
+            if (value == null)
+                throw new ArgumentNullException(nameof(value));
+
+            Value = value;
+        }
+
+        public bool IsEmpty => string.IsNullOrEmpty(Value);
+
+        public bool Equals(JobDefinitionId other) => string.Equals(Value, other.Value, StringComparison.Ordinal);
+
+        public override bool Equals(object obj) => obj is JobDefinitionId other && Equals(other);
+
+        public override int GetHashCode() => Value == null ? 0 : StringComparer.Ordinal.GetHashCode(Value);
+
+        public override string ToString() => Value ?? string.Empty;
+
+        public static bool operator ==(JobDefinitionId left, JobDefinitionId right) => left.Equals(right);
+
+        public static bool operator !=(JobDefinitionId left, JobDefinitionId right) => !left.Equals(right);
+    }
+}

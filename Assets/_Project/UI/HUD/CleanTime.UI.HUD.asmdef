@@ -1,0 +1,32 @@
+{
+    "name": "CleanTime.UI.HUD",
+    "rootNamespace": "CleanTime.UI.HUD",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Shared.Unity",
+        "CleanTime.UI.Common",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI",
+        "CleanTime.Economy.Domain",
+        "CleanTime.Economy.Application",
+        "CleanTime.GameTime.Domain",
+        "CleanTime.GameTime.Application",
+        "CleanTime.Equipment.Domain",
+        "CleanTime.Equipment.Application",
+        "CleanTime.Cleaning.Domain",
+        "CleanTime.Cleaning.Presentation",
+        "CleanTime.Quests.Domain",
+        "CleanTime.Quests.Application",
+        "CleanTime.Interaction.Domain",
+        "CleanTime.Interaction.Presentation"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

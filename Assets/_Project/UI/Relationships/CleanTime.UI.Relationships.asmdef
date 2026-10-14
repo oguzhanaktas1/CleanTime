@@ -1,0 +1,22 @@
+{
+    "name": "CleanTime.UI.Relationships",
+    "rootNamespace": "CleanTime.UI.Relationships",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Shared.Unity",
+        "CleanTime.UI.Common",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI",
+        "CleanTime.Relationships.Domain",
+        "CleanTime.Relationships.Application"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

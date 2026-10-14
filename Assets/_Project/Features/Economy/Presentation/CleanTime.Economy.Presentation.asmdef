@@ -1,0 +1,19 @@
+{
+    "name": "CleanTime.Economy.Presentation",
+    "rootNamespace": "CleanTime.Economy.Presentation",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Shared.Unity",
+        "CleanTime.Economy.Domain",
+        "CleanTime.Economy.Application"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+    "name": "CleanTime.Relationships.Infrastructure",
+    "rootNamespace": "CleanTime.Relationships.Infrastructure",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Relationships.Domain"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

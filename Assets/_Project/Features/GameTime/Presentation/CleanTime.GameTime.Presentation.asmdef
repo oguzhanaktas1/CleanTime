@@ -1,0 +1,19 @@
+{
+    "name": "CleanTime.GameTime.Presentation",
+    "rootNamespace": "CleanTime.GameTime.Presentation",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Shared.Unity",
+        "CleanTime.GameTime.Domain",
+        "CleanTime.GameTime.Application"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

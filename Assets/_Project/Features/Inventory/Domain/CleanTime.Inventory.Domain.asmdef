@@ -1,0 +1,16 @@
+{
+    "name": "CleanTime.Inventory.Domain",
+    "rootNamespace": "CleanTime.Inventory.Domain",
+    "references": [
+        "CleanTime.Shared.Kernel"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

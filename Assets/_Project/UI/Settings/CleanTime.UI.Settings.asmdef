@@ -1,0 +1,22 @@
+{
+    "name": "CleanTime.UI.Settings",
+    "rootNamespace": "CleanTime.UI.Settings",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Shared.Unity",
+        "CleanTime.UI.Common",
+        "Unity.TextMeshPro",
+        "UnityEngine.UI",
+        "CleanTime.Settings.Domain",
+        "CleanTime.Settings.Application"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

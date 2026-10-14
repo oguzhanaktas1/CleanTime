@@ -1,0 +1,23 @@
+{
+    "name": "CleanTime.GameTime.Application",
+    "rootNamespace": "CleanTime.GameTime.Application",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.GameTime.Domain",
+        "CleanTime.Jobs.Domain",
+        "CleanTime.Employees.Domain",
+        "CleanTime.Economy.Domain",
+        "CleanTime.Progression.Domain",
+        "CleanTime.Quests.Domain",
+        "CleanTime.Relationships.Domain"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

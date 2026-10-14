@@ -1,0 +1,18 @@
+{
+    "name": "CleanTime.Platform.Infrastructure",
+    "rootNamespace": "CleanTime.Platform.Infrastructure",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Platform.Domain",
+        "CleanTime.Platform.Application"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

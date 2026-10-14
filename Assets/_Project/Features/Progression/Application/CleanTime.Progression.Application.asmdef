@@ -1,0 +1,19 @@
+{
+    "name": "CleanTime.Progression.Application",
+    "rootNamespace": "CleanTime.Progression.Application",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Progression.Domain",
+        "CleanTime.Jobs.Domain",
+        "CleanTime.Locations.Domain"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

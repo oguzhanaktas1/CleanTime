@@ -1,0 +1,26 @@
+{
+    "name": "CleanTime.DebugTools.Presentation",
+    "rootNamespace": "CleanTime.DebugTools.Presentation",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Shared.Unity",
+        "CleanTime.DebugTools.Domain",
+        "CleanTime.DebugTools.Application",
+        "Unity.InputSystem",
+        "CleanTime.Save.Domain",
+        "CleanTime.Save.Application",
+        "CleanTime.Economy.Domain",
+        "CleanTime.Economy.Application",
+        "CleanTime.GameTime.Domain",
+        "CleanTime.GameTime.Application"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

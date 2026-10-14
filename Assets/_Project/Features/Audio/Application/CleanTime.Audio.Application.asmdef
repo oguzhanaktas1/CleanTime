@@ -1,0 +1,19 @@
+{
+    "name": "CleanTime.Audio.Application",
+    "rootNamespace": "CleanTime.Audio.Application",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Audio.Domain",
+        "CleanTime.Settings.Domain",
+        "CleanTime.GameTime.Domain"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

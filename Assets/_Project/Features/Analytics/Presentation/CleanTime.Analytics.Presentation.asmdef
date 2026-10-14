@@ -1,0 +1,19 @@
+{
+    "name": "CleanTime.Analytics.Presentation",
+    "rootNamespace": "CleanTime.Analytics.Presentation",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Shared.Unity",
+        "CleanTime.Analytics.Domain",
+        "CleanTime.Analytics.Application"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

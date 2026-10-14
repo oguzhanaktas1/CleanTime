@@ -1,0 +1,20 @@
+{
+    "name": "CleanTime.NPC.Presentation",
+    "rootNamespace": "CleanTime.NPC.Presentation",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Shared.Unity",
+        "CleanTime.NPC.Domain",
+        "CleanTime.NPC.Application",
+        "CleanTime.GameTime.Domain"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

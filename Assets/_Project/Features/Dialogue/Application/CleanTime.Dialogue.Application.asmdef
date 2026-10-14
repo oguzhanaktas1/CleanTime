@@ -1,0 +1,17 @@
+{
+    "name": "CleanTime.Dialogue.Application",
+    "rootNamespace": "CleanTime.Dialogue.Application",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Dialogue.Domain"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

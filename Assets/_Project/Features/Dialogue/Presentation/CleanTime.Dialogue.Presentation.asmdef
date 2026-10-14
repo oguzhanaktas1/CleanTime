@@ -1,0 +1,19 @@
+{
+    "name": "CleanTime.Dialogue.Presentation",
+    "rootNamespace": "CleanTime.Dialogue.Presentation",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Shared.Unity",
+        "CleanTime.Dialogue.Domain",
+        "CleanTime.Dialogue.Application"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

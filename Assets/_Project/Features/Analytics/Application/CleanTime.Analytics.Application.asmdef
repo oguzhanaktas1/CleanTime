@@ -1,0 +1,27 @@
+{
+    "name": "CleanTime.Analytics.Application",
+    "rootNamespace": "CleanTime.Analytics.Application",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Analytics.Domain",
+        "CleanTime.Cleaning.Domain",
+        "CleanTime.Jobs.Domain",
+        "CleanTime.Equipment.Domain",
+        "CleanTime.Progression.Domain",
+        "CleanTime.Company.Domain",
+        "CleanTime.Employees.Domain",
+        "CleanTime.Gifts.Domain",
+        "CleanTime.Relationships.Domain",
+        "CleanTime.Quests.Domain",
+        "CleanTime.Save.Domain"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

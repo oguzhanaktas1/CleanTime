@@ -1,0 +1,26 @@
+{
+    "name": "CleanTime.Quests.Application",
+    "rootNamespace": "CleanTime.Quests.Application",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Quests.Domain",
+        "CleanTime.Economy.Application",
+        "CleanTime.Economy.Domain",
+        "CleanTime.Cleaning.Domain",
+        "CleanTime.Jobs.Domain",
+        "CleanTime.Equipment.Domain",
+        "CleanTime.Gifts.Domain",
+        "CleanTime.Employees.Domain",
+        "CleanTime.Relationships.Domain",
+        "CleanTime.Dialogue.Domain"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

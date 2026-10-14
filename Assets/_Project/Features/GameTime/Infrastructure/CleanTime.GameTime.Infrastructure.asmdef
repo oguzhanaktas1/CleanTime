@@ -1,0 +1,17 @@
+{
+    "name": "CleanTime.GameTime.Infrastructure",
+    "rootNamespace": "CleanTime.GameTime.Infrastructure",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.GameTime.Domain"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

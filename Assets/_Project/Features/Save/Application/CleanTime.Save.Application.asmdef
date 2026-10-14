@@ -1,0 +1,23 @@
+{
+    "name": "CleanTime.Save.Application",
+    "rootNamespace": "CleanTime.Save.Application",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Save.Domain",
+        "CleanTime.Jobs.Domain",
+        "CleanTime.GameTime.Domain",
+        "CleanTime.Economy.Domain",
+        "CleanTime.Gifts.Domain",
+        "CleanTime.Company.Domain",
+        "CleanTime.Employees.Domain"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

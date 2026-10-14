@@ -1,0 +1,19 @@
+{
+    "name": "CleanTime.Gifts.Presentation",
+    "rootNamespace": "CleanTime.Gifts.Presentation",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Shared.Unity",
+        "CleanTime.Gifts.Domain",
+        "CleanTime.Gifts.Application"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

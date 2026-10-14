@@ -1,0 +1,19 @@
+{
+    "name": "CleanTime.Relationships.Presentation",
+    "rootNamespace": "CleanTime.Relationships.Presentation",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Shared.Unity",
+        "CleanTime.Relationships.Domain",
+        "CleanTime.Relationships.Application"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

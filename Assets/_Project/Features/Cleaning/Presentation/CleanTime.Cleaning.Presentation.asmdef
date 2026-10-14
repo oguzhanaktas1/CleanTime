@@ -1,0 +1,24 @@
+{
+    "name": "CleanTime.Cleaning.Presentation",
+    "rootNamespace": "CleanTime.Cleaning.Presentation",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Shared.Unity",
+        "CleanTime.Cleaning.Domain",
+        "CleanTime.Cleaning.Application",
+        "CleanTime.Equipment.Application",
+        "CleanTime.Equipment.Domain",
+        "CleanTime.GameInput.Application",
+        "CleanTime.Audio.Application",
+        "CleanTime.Content"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+    "name": "CleanTime.Player.Application",
+    "rootNamespace": "CleanTime.Player.Application",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Player.Domain"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

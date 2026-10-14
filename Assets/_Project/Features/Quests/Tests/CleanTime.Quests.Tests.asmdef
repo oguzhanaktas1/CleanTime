@@ -1,0 +1,37 @@
+{
+    "name": "CleanTime.Quests.Tests",
+    "rootNamespace": "CleanTime.Quests.Tests",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Shared.TestUtilities",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "CleanTime.Quests.Infrastructure",
+        "CleanTime.Quests.Domain",
+        "CleanTime.Quests.Application",
+        "CleanTime.Economy.Application",
+        "CleanTime.Economy.Domain",
+        "CleanTime.Cleaning.Domain",
+        "CleanTime.Jobs.Domain",
+        "CleanTime.Equipment.Domain",
+        "CleanTime.Gifts.Domain",
+        "CleanTime.Employees.Domain",
+        "CleanTime.Relationships.Domain",
+        "CleanTime.Dialogue.Domain"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+    "name": "CleanTime.Employees.Domain",
+    "rootNamespace": "CleanTime.Employees.Domain",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Jobs.Domain"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

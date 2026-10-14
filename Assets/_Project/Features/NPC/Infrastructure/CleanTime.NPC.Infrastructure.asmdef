@@ -1,0 +1,17 @@
+{
+    "name": "CleanTime.NPC.Infrastructure",
+    "rootNamespace": "CleanTime.NPC.Infrastructure",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.NPC.Domain"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

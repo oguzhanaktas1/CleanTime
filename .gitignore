@@ -1,0 +1,129 @@
+# ---------------------------------------------------------------------------
+# Unity generated (recreated by the editor; never commit)
+# ---------------------------------------------------------------------------
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+/[Aa]ssets/AssetStoreTools*
+/[Aa]ssets/Plugins/Editor/JetBrains*
+ExportedObj/
+.consulo/
+sysinfo.txt
+InitTestScene*.unity*
+*.mdb
+*.pdb
+*.opendb
+*.VC.db
+
+# Generated C# project files (Unity regenerates them from the .asmdef files)
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# ---------------------------------------------------------------------------
+# Editors / IDEs
+# ---------------------------------------------------------------------------
+/.vs/
+/.idea/
+/.vscode/
+.fleet/
+*.swp
+*~
+
+# ---------------------------------------------------------------------------
+# OS
+# ---------------------------------------------------------------------------
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ---------------------------------------------------------------------------
+# Build / release artifacts
+# ---------------------------------------------------------------------------
+*.apk
+*.aab
+*.ipa
+*.unitypackage
+*.unitypackage.meta
+*.app
+*.exe
+*.dmg
+*.zip
+*.7z
+crashlytics-build.properties
+
+# ---------------------------------------------------------------------------
+# Secrets and machine-specific files (never commit)
+# ---------------------------------------------------------------------------
+.env
+.env.*
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pem
+*.key
+*.mobileprovision
+google-services.json
+GoogleService-Info.plist
+service-account*.json
+/*.local.*
+/Assets/Resources/*secret*
+
+# Local save databases / test output
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+TestResults*.xml
+
+# ---------------------------------------------------------------------------
+# Unity "Get Started" template content that Clean Time does not use.
+# ~250 MB of tutorial videos, sample textures, a robot and a demo scene.
+# Kept on disk if present, but not committed. Delete the folders any time.
+# ---------------------------------------------------------------------------
+/Assets/Tutorials/
+/Assets/Tutorials.meta
+/Assets/Scenes/
+/Assets/Scenes.meta
+/Assets/Prefabs/
+/Assets/Prefabs.meta
+/Assets/Materials/
+/Assets/Materials.meta
+/Assets/VFX/
+/Assets/VFX.meta
+/Assets/Audio/
+/Assets/Audio.meta
+/Assets/Skyboxes/
+/Assets/Skyboxes.meta
+/Assets/UI/
+/Assets/UI.meta
+/Assets/SourceFiles/*
+# ...except the two parts the project settings still point at:
+#   Settings    -> the URP render pipeline assets (Graphics / Quality settings)
+#   InputSystem -> the project-wide Input System actions asset (EditorBuildSettings)
+!/Assets/SourceFiles/Settings/
+!/Assets/SourceFiles/Settings.meta
+!/Assets/SourceFiles/InputSystem/
+!/Assets/SourceFiles/InputSystem.meta
+
+# NOTE: do not ignore *.meta files or Assets/TextMesh Pro (TMP essentials are required by the UI views).

@@ -1,0 +1,17 @@
+{
+    "name": "CleanTime.Interaction.Application",
+    "rootNamespace": "CleanTime.Interaction.Application",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Interaction.Domain"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": true
+}

@@ -1,0 +1,16 @@
+{
+    "name": "CleanTime.Shared.Unity",
+    "rootNamespace": "CleanTime.Shared.Unity",
+    "references": [
+        "CleanTime.Shared.Kernel"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

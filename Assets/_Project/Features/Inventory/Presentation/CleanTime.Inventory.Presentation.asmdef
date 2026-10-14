@@ -1,0 +1,19 @@
+{
+    "name": "CleanTime.Inventory.Presentation",
+    "rootNamespace": "CleanTime.Inventory.Presentation",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Shared.Unity",
+        "CleanTime.Inventory.Domain",
+        "CleanTime.Inventory.Application"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,33 @@
+{
+    "name": "CleanTime.Employees.Tests",
+    "rootNamespace": "CleanTime.Employees.Tests",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Shared.TestUtilities",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "CleanTime.Employees.Domain",
+        "CleanTime.Jobs.Domain",
+        "CleanTime.Employees.Application",
+        "CleanTime.GameTime.Domain",
+        "CleanTime.Company.Domain",
+        "CleanTime.Economy.Application",
+        "CleanTime.Economy.Domain",
+        "CleanTime.Employees.Infrastructure"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

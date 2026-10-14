@@ -1,0 +1,25 @@
+{
+    "name": "CleanTime.Bootstrap.PlayModeTests",
+    "rootNamespace": "CleanTime.Bootstrap.PlayModeTests",
+    "references": [
+        "CleanTime.Shared.Kernel",
+        "CleanTime.Bootstrap",
+        "CleanTime.World.Application",
+        "CleanTime.Economy.Application",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
